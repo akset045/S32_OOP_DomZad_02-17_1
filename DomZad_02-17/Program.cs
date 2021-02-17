@@ -16,6 +16,7 @@ namespace DomZad_02_17
 
             Console.Write("Введите число B: ");
             Double B = Double.Parse(Console.ReadLine());
+            Console.WriteLine();
 
             Console.Write("Сумма чисел: " + (A + B));
             Console.WriteLine();
