@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DomZad_02_17
+namespace DomZad_02_17_1
 {
     class Program
     {
